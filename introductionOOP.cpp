@@ -6,6 +6,10 @@ public :
   int nim;
   string nama;
   float nilai;
+
+  void prinData(){
+ 
+  }
 };
 int main(){
 
