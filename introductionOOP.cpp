@@ -13,6 +13,9 @@ public :
     cout << "nilai :" << nilai << endl;
   }
 };
+
+int main 
 int main(){
+   
 
 }
